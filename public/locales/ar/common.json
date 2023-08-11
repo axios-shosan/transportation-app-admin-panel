@@ -1,0 +1,22 @@
+{
+  "translation_button": "ترجمة",
+  "consulter": "استشارة",
+  "details": "التفاصيل",
+  "retour": "عودة",
+  "enterprise": "الشركة",
+  "note": "ملاحظة",
+  "cancel": "إلغاء",
+  "loading": "جار التحميل",
+  "yes": "نعم",
+  "no": "لا",
+  "actions": "الإجراءات",
+  "add": "إضافة",
+  "no_record": "لا توجد سجلات",
+  "hello": "صباح الخير",
+  "editprofile": "تعديل الملف الشخصي",
+  "needhelp": "تحتاج إلى مساعدة؟",
+  "signout": "تسجيل الخروج",
+  "modify": "تعديل",
+  "delete": "حذف",
+  "seach-placeholder": "ابحث"
+}

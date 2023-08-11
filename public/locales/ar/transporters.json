@@ -1,0 +1,25 @@
+{
+  "index_title": "النقل",
+  "name": "الاسم",
+  "email": "البريد الالكتروني",
+  "phone_number": "رقم الهاتف",
+  "table_title": "جدول النقل",
+  "details_page_title": "السوق",
+  "card_title": "تفاصيل العرض",
+  "bid": "تقديم عرض",
+  "create_transporter_form": "إضافة نقل جديد",
+  "modify_transporter_form": "تعديل بيانات النقل",
+  "delete_transporter_message": "هل أنت متأكد من حذف النقل؟",
+  "form": {
+    "placeholders": {
+      "name": "اسم النقل",
+      "email": "البريد الالكتروني",
+      "phone_number": "رقم الهاتف",
+      "password": "كلمة المرور"
+    },
+    "btns": {
+      "cancel": "cancel",
+      "submit": "submit"
+    }
+  }
+}

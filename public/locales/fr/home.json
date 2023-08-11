@@ -1,0 +1,34 @@
+{
+  "title": {
+    "firstline": {
+      "white": "La platfrom qui",
+      "green": "réinvente"
+    },
+    "secondline": {
+      "white": "La",
+      "green": "livraison"
+    }
+  },
+  "description": "Travaillez avec les meilleurs dans le domaine au meilleur prix, avec une technologie de suivie et de data alimenté par l'intelligence artificiel.",
+  "start_now_btn": "Commencez dés maintenant",
+  "step_1": "Créer votre compte en moins d’une minute en cliquant sur le bouton S’inscrire.",
+  "step_2": "Notre équipe va ensuite vous contacter en moins de 24 heures pour vérifier votre compte.",
+  "step_3": "Vous êtes a présent prêt a intégrer cafila dans votre business.",
+  "why_choose_us_title": "POURQUOI NOUS CHOISIR?",
+  "why_choose_us_card": [
+    {
+      "title": "tracking",
+      "description": "Suivez le trajet de votre marchandise en temps réel. Contrôlez en mieux les déplacements de vos véhicules."
+    },
+    {
+      "title": "Sécurité",
+      "description": "Tout vos informations sont chiffrés et accessible que par vous."
+    },
+    {
+      "title": "Paiement",
+      "description": "Paiement sécurisé et rapide via notre plateforme avec des moyens de paiement sécurisés et fiables."
+    }
+  ],
+  "start_now_title": "N'ATTENDEZ PLUS POUR RÉVOLUTIONNER!",
+  "start_now_btn_label": "Commencez gratuitement"
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Tableau De Bord",
+  "dashboardStats": {
+    "shipment": "Nombre de livraisons",
+    "inProcess": "Livraisons en cours",
+    "done": "Livraisons terminées",
+    "planned": "Livraisons planifiées"
+  },
+  "dashboardChart": {
+    "shipments": "Livraisons",
+    "shipments_confirmed": "Livraisons confirmées"
+  },
+  "months": {
+    "mobile": [
+      "Jan",
+      "Fev",
+      "Mar",
+      "Avr",
+      "Mai",
+      "Juin",
+      "Juil",
+      "Aout",
+      "Sept",
+      "Oct",
+      "Nov",
+      "Dec"
+    ],
+    "desktop": [
+      "Janvier",
+      "Février",
+      "Mars",
+      "Avril",
+      "Mai",
+      "Juin",
+      "Juillet",
+      "Aout",
+      "Septembre",
+      "Octobre",
+      "Novembre",
+      "Décembre"
+    ]
+  }
+}

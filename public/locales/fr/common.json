@@ -1,0 +1,23 @@
+{
+  "translation_button": "Translation",
+  "consulter": "Consulter",
+  "details": "Les Détails",
+  "retour": "Retour",
+  "enterprise": "Entreprise",
+  "note": "Note",
+  "cancel": "Annulé",
+  "confirm": "confirmer",
+  "loading": "Chargement",
+  "yes": "Oui",
+  "no": "Non",
+  "actions": "Actions",
+  "add": "Ajouter",
+  "no_record": "Aucun enregistrement",
+  "hello": "Bonjour",
+  "editprofile": "Modifier le profil",
+  "needhelp": "Besoin d'aide ?",
+  "signout": "Déconnexion",
+  "modify": "Modifier",
+  "delete": "Supprimer",
+  "seach-placeholder": "Rechercher"
+}

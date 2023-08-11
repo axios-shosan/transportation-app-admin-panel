@@ -1,0 +1,25 @@
+{
+  "index_title": "Tranporteurs",
+  "name": "Nom",
+  "email": "E-mail",
+  "phone_number": "Numéro De Téléphone",
+  "table_title": "Tables des Tranporteurs",
+  "details_page_title": "Marketplace",
+  "card_title": "Les détails sur l'appel d'offre",
+  "bid": "Placer un offre",
+  "create_transporter_form": "Ajouter un nouveau tranporteur",
+  "modify_transporter_form": "Modifier Les Information du Tranporteur",
+  "delete_transporter_message": "Êtes-vous sûr de supprimer le transporteur ?",
+  "form": {
+    "placeholders": {
+      "name": "Nom de Transporteur",
+      "email": "Email de transporteur",
+      "phone_number": "Numéro De Téléphone",
+      "password": "Mot de passe"
+    },
+    "btns": {
+      "cancel": "Annulé",
+      "submit": "Sauvegarder"
+    }
+  }
+}

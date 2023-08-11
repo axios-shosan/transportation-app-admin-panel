@@ -1,0 +1,17 @@
+{
+  "index_title": "الشحنات",
+  "id": "الشحنة",
+  "deliver_at": "تسليم في",
+  "from": "من",
+  "to": "إلى",
+  "offer_id": "رقم العرض",
+  "weight": "الوزن",
+  "fragile": "حساس",
+  "shipment_type": "نوع الشحنة",
+  "shipment_type_values": ["عادي", "حساس"],
+  "status": "الحالة",
+  "status_values": ["جاري", "منتهي", "مرفوض", "ملغي"],
+  "table_title": "الشحنات",
+  "details_page_title": "تفاصيل الشحنة",
+  "card_title": "الشحنة"
+}

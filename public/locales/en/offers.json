@@ -1,0 +1,42 @@
+{
+  "index_title": "Your Offers",
+  "id": "Offer",
+  "deliver_at": "Date",
+  "from": "From",
+  "to": "To",
+  "table_title": "Explore your offers",
+  "details_page_title": "Offer details",
+  "card_title": "Shipment",
+  "bids": "Bids",
+  "create_offer_form_title": "Add an offer",
+  "form": {
+    "placeholders": {
+      "from": "From",
+      "to": "To",
+      "deliver_at": "Delivery date",
+      "weight": "Product weight",
+      "shipment_type": "Shipment type",
+      "fragile": "Fragile",
+      "enabled": "enabled",
+      "note": "Note to add"
+    },
+    "dropdown-labels": {
+      "shipment_type": {
+        "standard": "Standard",
+        "fragile": "Fragile"
+      },
+      "fragile": {
+        "yes": "Yes",
+        "no": "No"
+      },
+      "enabled": {
+        "yes": "Yes",
+        "no": "No"
+      }
+    },
+    "btns": {
+      "cancel": "Cancel",
+      "submit": "Save"
+    }
+  }
+}

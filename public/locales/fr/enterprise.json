@@ -1,0 +1,26 @@
+{
+  "create_enterprise_form_title": "Créer Votre Entreprise.",
+  "form": {
+    "placeholders": {
+      "name": "Nom de L'Entrerise",
+      "rc": "Registre de commerce",
+      "nif": "NIF: Numéro d'identification fiscale",
+      "nis": "NIS: Numéro d'identification sociale",
+      "address": "addresse",
+      "capital": "Capital",
+      "type": "Label de l'entreprise",
+      "employees": "Nombre d'employée"
+    },
+    "dropdown-options": {
+      "types" :{
+        "eurl": "EURL",
+        "snc": "SNC",
+        "sarl": "SARL",
+        "spa": "SPA"
+      }
+    } ,
+    "btns": {
+      "submit": "Valider l'inscription"
+    }
+  }
+}

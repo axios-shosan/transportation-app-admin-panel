@@ -1,0 +1,29 @@
+{
+  "index_title": "Marketplace",
+  "marketplace": "Marketplace",
+  "id": "Offre",
+  "deliver_at": "Date de livraison",
+  "from": "Départ",
+  "to": "Destination",
+  "amount": "Le montant",
+  "weight": "Poids",
+  "fragile": "Fragile",
+  "shipment_type": "Type d'éxpedition",
+  "shipment_type_values": ["Srandard", "Fragile"],
+  "marketplace_table_title": "Tables des Appels d'offres",
+  "details_page_title": "Marketplace",
+  "card_title": "Les détails sur l'appel d'offre",
+  "bid": "Placer un offre",
+  "create_bid_form": "Faire un offre",
+  "form": {
+    "placeholders": {
+      "deliver_at": "Date de livraison",
+      "amount": "Le prix",
+      "note": "Note a ajouter"
+    },
+    "btns": {
+      "cancel": "Annulé",
+      "submit": "Valider"
+    }
+  }
+}

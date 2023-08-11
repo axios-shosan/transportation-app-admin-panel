@@ -1,0 +1,42 @@
+{
+  "index_title": "Vos appels d'offres",
+  "id": "Offre",
+  "deliver_at": "Date",
+  "from": "Départ",
+  "to": "Destination",
+  "table_title": "Explorez vos appel d'offres",
+  "details_page_title": "Les details sur l'appel d'offre",
+  "card_title": "Expédition",
+  "bids": "Les Enchaires",
+  "create_offer_form_title": "Ajouter un appel d'offre",
+  "form": {
+    "placeholders": {
+      "from": "Départ",
+      "to": "Destination",
+      "deliver_at": "Date de livraison",
+      "weight": "Poid de Produit",
+      "shipment_type": "Type d'éxpedition",
+      "fragile": "Fragile",
+      "enabled": "activé",
+      "note": "Note a ajouter"
+    },
+    "dropdown-labels": {
+        "shipment_type": {
+          "standard": "Standard",
+          "fragile": "Fragile"
+        },
+        "fragile": {
+          "yes": "Oui",
+          "no": "Non"
+        },
+        "enabled": {
+          "yes": "Oui",
+          "no": "Non"
+      }
+    },
+    "btns": {
+      "cancel": "Annulé",
+      "submit": "Sauvegarder"
+    }
+  }
+}

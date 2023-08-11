@@ -1,0 +1,25 @@
+{
+  "index_title": "Transporters",
+  "name": "Name",
+  "email": "Email",
+  "phone_number": "Phone Number",
+  "table_title": "Transporters Tables",
+  "details_page_title": "Marketplace",
+  "card_title": "Bid Details",
+  "bid": "Place a Bid",
+  "create_transporter_form": "Add a new transporter",
+  "modify_transporter_form": "Modify Transporter Information",
+  "delete_transporter_message": "Are you sure you want to delete the transporter ?",
+  "form": {
+    "placeholders": {
+      "name": "اسم النقل",
+      "email": "البريد الالكتروني",
+      "phone_number": "رقم الهاتف",
+      "password": "كلمة المرور"
+    },
+    "btns": {
+      "cancel": "cancel",
+      "submit": "submit"
+    }
+  }
+}

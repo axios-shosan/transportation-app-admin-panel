@@ -1,0 +1,17 @@
+{
+  "index_title": "Livraisons",
+  "id": "Livraison",
+  "deliver_at": "Livrer le",
+  "from": "Départ",
+  "to": "Destination",
+  "offer_id": "N° Appel D'offre",
+  "weight": "Poids",
+  "fragile": "Fragile",
+  "shipment_type": "Type d'éxpedition",
+  "shipment_type_values": ["Srandard", "Fragile"],
+  "status": "Statut",
+  "status_values": ["En cours", "Terminé", "Refusé", "Annulé"],
+  "table_title": "Livraisons",
+  "details_page_title": "Les details sur l'expédition",
+  "card_title": "Expédition"
+}

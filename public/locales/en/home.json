@@ -1,0 +1,34 @@
+{
+  "title": {
+    "firstline": {
+      "white": "The platform that",
+      "green": "reinvents"
+    },
+    "secondline": {
+      "white": "The",
+      "green": "delivery"
+    }
+  },
+  "description": "Work with the best in the field at the best price, with a tracking and data technology powered by artificial intelligence.",
+  "start_now_btn": "Start now",
+  "step_1": "Create your account in less than a minute by clicking on the Register button.",
+  "step_2": "Our team will then contact you within 24 hours to verify your account.",
+  "step_3": "You are now ready to integrate cafila into your business.",
+  "why_choose_us_title": "WHY CHOOSE US?",
+  "why_choose_us_card": [
+    {
+      "title": "tracking",
+      "description": "Track the journey of your goods in real time. Control the movements of your vehicles better."
+    },
+    {
+      "title": "Security",
+      "description": "All your information is encrypted and accessible only by you."
+    },
+    {
+      "title": "Payment",
+      "description": "Secure and fast payment via our platform with secure and reliable payment methods."
+    }
+  ],
+  "start_now_title": "DO NOT WAIT TO REVOLUTIONIZE!",
+  "start_now_btn_label": "Start for free"
+}

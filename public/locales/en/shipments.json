@@ -1,0 +1,17 @@
+{
+  "index_title": "Deliveries",
+  "id": "Delivery",
+  "deliver_at": "Date",
+  "from": "From",
+  "to": "To",
+  "offer_id": "Offer ID",
+  "weight": "Weight",
+  "fragile": "Fragile",
+  "shipment_type": "Shipment Type",
+  "shipment_type_values": ["Srandard", "Fragile"],
+  "status": "Status",
+  "status_values": ["In Progress", "Finished", "Refused", "Canceled"],
+  "table_title": "Deliveries",
+  "details_page_title": "Delivery Details",
+  "card_title": "Delivery"
+}

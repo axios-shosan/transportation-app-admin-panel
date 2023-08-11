@@ -1,0 +1,49 @@
+{
+  "index_title": "Vehicles",
+  "id": "Vehicle",
+  "name": "Name",
+  "model": "Model",
+  "type": "Type",
+  "year": "Year",
+  "plaque": "plaque",
+  "color": "Color",
+  "create_vehicle_form_title": "Add a vehicle",
+  "modify_vehicle_form_title": "Modify the vehicle",
+  "delete_vehicle_text": "Are you sure to delete the vehicle ?",
+  "table_title": "Vehicles tables",
+  "details_page_title": "The details on the call for bids",
+  "bids": "The Bids",
+  "form": {
+    "placeholders": {
+      "name": "Nom de la marque, ex: Peugeot",
+      "model": "Modèle de la marque, ex: 206",
+      "note": "Année de fabrication",
+      "plaque": "Plaque (Matricule)",
+      "color": "Couleur du véhicule",
+      "type": "Type de véhicule"
+    },
+    "dropdown-labels": {
+      "colors": {
+        "red": "Rouge",
+        "blue": "Bleu",
+        "green": "Verte",
+        "black": "Noire",
+        "white": "Blanche",
+        "grey": "Grise",
+        "yellow": "Jaune"
+      },
+      "types": {
+        "maraicher": "Maraîcher",
+        "plateau": "Plateau",
+        "frigorifique": "Frigorifique",
+        "pick-up": "Pick-up",
+        "fourgon": "Fourgon",
+        "van": "Van"
+      }
+    },
+    "btns": {
+      "cancel": "Annulé",
+      "submit": "Valider"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "index_title": "عروضك",
+  "id": "العرض",
+  "deliver_at": "التاريخ",
+  "from": "من",
+  "to": "إلى",
+  "table_title": "استكشف عروضك",
+  "details_page_title": "تفاصيل العرض",
+  "card_title": "الشحن",
+  "bids": "العروض",
+  "create_offer_form_title": "أضف عرض",
+  "form": {
+    "placeholders": {
+      "from": "من",
+      "to": "إلى",
+      "deliver_at": "تاريخ التسليم",
+      "weight": "وزن المنتج",
+      "shipment_type": "نوع الشحن",
+      "fragile": "حساس",
+      "enabled": "مفعل",
+      "note": "ملاحظة لإضافتها"
+    },
+    "dropdown-labels": {
+      "shipment_type": {
+        "standard": "قياسي",
+        "fragile": "حساس"
+      },
+      "fragile": {
+        "yes": "نعم",
+        "no": "لا"
+      },
+      "enabled": {
+        "yes": "نعم",
+        "no": "لا"
+      }
+    },
+    "btns": {
+      "cancel": "إلغاء",
+      "submit": "حفظ"
+    }
+  }
+}

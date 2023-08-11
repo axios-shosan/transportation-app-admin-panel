@@ -1,0 +1,18 @@
+{
+  "index_title": "السوق",
+  "marketplace": "السوق",
+  "id": "الرقم",
+  "deliver_at": "تاريخ التسليم",
+  "from": "من",
+  "to": "إلى",
+  "amount": "المبلغ",
+  "weight": "الوزن",
+  "fragile": "حساس",
+  "shipment_type": "نوع الشحنة",
+  "shipment_type_values": ["عادي", "حساس"],
+  "marketplace_table_title": "جدول العروض",
+  "details_page_title": "السوق",
+  "card_title": "تفاصيل العرض",
+  "bid": "تقديم عرض",
+  "create_bid_form": "تقديم عرض"
+}

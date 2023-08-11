@@ -1,0 +1,49 @@
+{
+  "index_title": "المركبات",
+  "id": "مركبة",
+  "name": "اسم",
+  "model": "نموذج",
+  "type": "نوع",
+  "year": "سنة",
+  "plaque": "لوحة",
+  "color": "لون",
+  "create_vehicle_form_title": "إضافة مركبة",
+  "modify_vehicle_form_title": "تعديل المركبة",
+  "delete_vehicle_text": "هل أنت متأكد من حذف المركبة؟",
+  "table_title": "جداول المركبات",
+  "details_page_title": "تفاصيل عن عرض الأسعار",
+  "bids": "العروض",
+  "form": {
+    "placeholders": {
+      "name": "اسم العلامة التجارية، مثال: بيجو",
+      "model": "نموذج العلامة التجارية، مثال: 206",
+      "note": "سنة الإنتاج",
+      "plaque": "لوحة (الرقم المركب)",
+      "color": "لون السيارة",
+      "type": "نوع السيارة"
+    },
+    "dropdown-labels": {
+      "colors": {
+        "red": "أحمر",
+        "blue": "أزرق",
+        "green": "أخضر",
+        "black": "أسود",
+        "white": "أبيض",
+        "grey": "رمادي",
+        "yellow": "أصفر"
+      },
+      "types": {
+        "maraicher": "مزارع",
+        "plateau": "مسطح",
+        "frigorifique": "مبرد",
+        "pick-up": "بيك اب",
+        "fourgon": "فورجون",
+        "van": "فان"
+      }
+    },
+    "btns": {
+      "cancel": "إلغاء",
+      "submit": "Valider"
+    }
+  }
+}

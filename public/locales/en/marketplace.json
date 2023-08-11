@@ -1,0 +1,18 @@
+{
+  "index_title": "Marketplace",
+  "marketplace": "Marketplace",
+  "id": "Offer",
+  "deliver_at": "Delivery date",
+  "from": "From",
+  "to": "To",
+  "amount": "Amount",
+  "weight": "Weight",
+  "fragile": "Fragile",
+  "shipment_type": "Shipment type",
+  "shipment_type_values": ["Srandard", "Fragile"],
+  "marketplace_table_title": "Marketplace tables",
+  "details_page_title": "Marketplace",
+  "card_title": "Offer details",
+  "bid": "Place a bid",
+  "create_bid_form": "Create a bid"
+}

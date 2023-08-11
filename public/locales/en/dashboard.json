@@ -1,0 +1,43 @@
+{
+  "title": "Dashboard",
+  "dashboardStats": {
+    "shipment": "Number of shipments",
+    "inProcess": "Shipments in process",
+    "done": "Shipments done",
+    "planned": "Planned shipments"
+  },
+  "dashboardChart": {
+    "shipments": "Shipments",
+    "shipments_confirmed": "Confirmed shipments"
+  },
+  "months": {
+    "mobile": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ],
+    "desktop": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ]
+  }
+}
