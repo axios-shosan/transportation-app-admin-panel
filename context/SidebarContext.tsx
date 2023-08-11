@@ -84,7 +84,10 @@ export function SidebarProvider({ children }: Props) {
   // admin: all
   useEffect(() => {
     if (status === 'loading') return;
-    if (session?.user?.carrier === 1 && session?.user?.shipper === 1) {
+    if (
+      (session?.user?.carrier === 1 && session?.user?.shipper === 1) ||
+      !session
+    ) {
       setSidebarLinks([
         {
           title: t('dashboard'),

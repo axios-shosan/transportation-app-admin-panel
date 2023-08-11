@@ -83,25 +83,25 @@ function CafilaApp(props: CafilaAppProps) {
   return (
     <SessionProvider session={session} refetchInterval={14 * 60}>
       <Provider store={store}>
-        <AuthGuard>
-          {/* <EnterpriseGuard> */}
-          <ThemeProvider theme={theme}>
-            {getLayout(<Component {...pageProps} />)}
-            <ToastContainer
-              position="top-left"
-              autoClose={5000}
-              hideProgressBar={false}
-              newestOnTop={false}
-              closeOnClick
-              rtl={false}
-              pauseOnFocusLoss
-              draggable
-              pauseOnHover
-              theme="dark"
-            />
-          </ThemeProvider>
-          {/* </EnterpriseGuard> */}
-        </AuthGuard>
+        {/* <AuthGuard> */}
+        {/* <EnterpriseGuard> */}
+        <ThemeProvider theme={theme}>
+          {getLayout(<Component {...pageProps} />)}
+          <ToastContainer
+            position="top-left"
+            autoClose={5000}
+            hideProgressBar={false}
+            newestOnTop={false}
+            closeOnClick
+            rtl={false}
+            pauseOnFocusLoss
+            draggable
+            pauseOnHover
+            theme="dark"
+          />
+        </ThemeProvider>
+        {/* </EnterpriseGuard> */}
+        {/* </AuthGuard> */}
       </Provider>
     </SessionProvider>
   );
